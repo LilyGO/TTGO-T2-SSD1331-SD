@@ -1,6 +1,6 @@
 #include <mySD.h>
 #include "ESP32_SSD1331.h"
-#define LED_BUILTIN 22
+#define LED_BUILTIN 5
 
 File root;
 
