@@ -27,7 +27,7 @@ SPIClass vspi(VSPI);
 #include "Buffer.h"
 #include "FS.h"
 #include "SD.h"
-enum { sd_sck = 18, sd_miso = 19, sd_mosi = 5, sd_ss = 23 };
+enum { sd_sck = 18, sd_miso = 19, sd_mosi = 23, sd_ss = 5 };
 esp_err_t event_handler(void* ctx, system_event_t* event) {
   return ESP_OK;
 }
