@@ -1,5 +1,8 @@
 # TTGO-T2-SSD1331-SD
 
+## T2 V1.6
+![image](https://github.com/LilyGO/TTGO-T2-SSD1331-SD/blob/master/T2.jpg)
+
 ## T2 V1.4
 ![image](https://github.com/LilyGO/TTGO-T2-SSD1331-SD/blob/master/image/T2%20V1.4new.jpg)
 
